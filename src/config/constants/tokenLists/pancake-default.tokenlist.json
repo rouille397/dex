@@ -1,0 +1,47 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WCFX Token",
+      "symbol": "WCFX",
+      "address": "0x14b2d3bc65e74dae1030eafd8ac30c533c976a9b",
+      "chainId": 1030,
+      "decimals": 18,
+      "logoURI": "https://ntfd.netlify.app/images/tokens/0x14b2d3bc65e74dae1030eafd8ac30c533c976a9b.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xfe97e85d13abd9c1c33384e796f10b73905637ce",
+      "chainId": 1030,
+      "decimals": 18,
+      "logoURI": "https://ntfd.netlify.app/images/tokens/0xfe97e85d13abd9c1c33384e796f10b73905637ce.png"
+    },
+    {
+      "name": "NitfeeDex",
+      "symbol": "NTFD",
+      "address": "0x1cbF4cCDEfb2b880933f413D7D9B45Af7cdfBA9e",
+      "chainId": 1030,
+      "decimals": 18,
+      "logoURI": "https://ntfd.netlify.app/images/tokens/0x1cbF4cCDEfb2b880933f413D7D9B45Af7cdfBA9e.png"
+    },
+    {
+      "name": "Nitfee",
+      "symbol": "NTF",
+      "address": "0x91908317a1445f9f12208952533588e34d716054",
+      "chainId": 1030,
+      "decimals": 18,
+      "logoURI": "https://ntfd.netlify.app/images/tokens/0x91908317a1445f9f12208952533588e34d716054.png"
+    }
+    
+  ]
+}
