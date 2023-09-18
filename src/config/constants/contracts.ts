@@ -48,7 +48,7 @@ export default {
     96: '0x24ec6962dbe874F6B67B5C50857565667fA0854F',
   },
   dexTokenVault: {
-    1030: '0xECc4e4647f2D6e12d266437052D1bF26CDA95EBB',
+    1030: '0x7Be26E06b207680b1Fe9D96D701eFEC38AB5961f',
     96: '',
   },
   predictions: {
